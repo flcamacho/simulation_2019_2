@@ -56,9 +56,9 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W02 Sep23-Sep27    2.------           3.-----            U18
      W03 Sep30-Oct04    3.TEORÍA DE COLAS  4.SimPy
      W04 Oct07-Oct11    4.APLICACIÓN       APLICACION         
-     W05 Oct14-Oct18    QUIZ               5.SERIES_TIEMPO    Festivo 14 Octubre / TALLER 1
+     W05 Oct14-Oct18    TALLER 1           5.SERIES_TIEMPO    Festivo 14 Octubre 
      W06 Oct21-Oct25    6.ARMA             6.ARMA             Oct26 Registro primera calificación
-     W07 Oct28-Nov01    7.APLICACION       QUIZ
+     W07 Oct28-Nov01    7.APLICACION       QUIZ - DEF PROJECT
      W08 Nov04-Nov08    8.MONTECARLO       9.APLICACION       Festivo 04 Noviembre
      W09 Nov11-Nov15    9.APLICACION       QUIZ               Festivo 11 Noviembre
      W10 Nov18-Nov22    10.MARKOV          13.DISCRETE        TALLER 2
@@ -96,6 +96,7 @@ Todos los items tienen el mismo porcentaje de evaluación.
 2.2. Sistema ideal de colas 
 2.3. Clasificación de un sistema de colas
 2.3.1. Aplicaciones de la simulación en un sistema de colas 
+2.3.1.1 Simpy: https://github.com/HMEIatJHU/LearnSimPy
 
 3. Identificación del modelo para procesos de tiempo discreto
 3.1 Modelos autorregresivos
