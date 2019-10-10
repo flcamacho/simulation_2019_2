@@ -56,8 +56,8 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W02 Sep23-Sep27    2.------           3.-----            U18
      W03 Sep30-Oct04    3.TEORÍA DE COLAS  4.SimPy
      W04 Oct07-Oct11    4.APLICACIÓN       APLICACION         
-     W05 Oct14-Oct18    TALLER 1           5.SERIES_TIEMPO    Festivo 14 Octubre 
-     W06 Oct21-Oct25    6.ARMA             6.ARMA             Oct26 Registro primera calificación
+     W05 Oct14-Oct18    5.SERIES_TIEMPO    6.ARMA 	      Festivo 14 Octubre 
+     W06 Oct21-Oct25    TALLER 1           6.ARMA             Oct26 Registro primera calificación
      W07 Oct28-Nov01    7.APLICACION       QUIZ - DEF PROJECT
      W08 Nov04-Nov08    8.MONTECARLO       9.APLICACION       Festivo 04 Noviembre
      W09 Nov11-Nov15    9.APLICACION       QUIZ               Festivo 11 Noviembre
