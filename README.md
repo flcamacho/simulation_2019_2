@@ -56,7 +56,7 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W02 Sep23-Sep27    2.------           3.-----            U18
      W03 Sep30-Oct04    3.TEORÍA DE COLAS  4.SimPy
      W04 Oct07-Oct11    4.APLICACIÓN       APLICACION         
-     W05 Oct14-Oct18    5.SERIES_TIEMPO    6.ARMA 	      Festivo 14 Octubre 
+     W05 Oct14-Oct18    5.SERIES_TIEMPO    6.ARMA 	          Festivo 14 Octubre 
      W06 Oct21-Oct25    TALLER 1           6.ARMA             Oct26 Registro primera calificación
      W07 Ene28-Ene30    7.APLICACION       QUIZ - DEF PROJECT
      W08 Feb04-Feb06    8.MONTECARLO       9.APLICACION       Quiz
@@ -66,14 +66,14 @@ Todos los items tienen el mismo porcentaje de evaluación.
      W12 Mar03-Mar05    PRE-PROJECT        PRE-PROJECT
      W13 Mar10-Mar12    SERIES_TIEMPO      SERIES_TIEMPO      Conceptualización
      W14 Mar17-Mar19    Risk Management                   
-     W15 Mar24-Mar26    PROJECT            PROJECT
-
+     W15 Mar24-Mar26    -------            ------
+     W16 Mar31-Abr02    PROJECT            PROJECT
 
     Febr7 -        -> Registro primera calificación
     Febr9 -        -> Último día cancelación materias
     Mar27 -        -> Finalización clase
     Mar30-Abr07    -> Evaluaciones finales
-    Abr08 -        -> Registro calificaciones finales
+    Abr15 -        -> Registro calificaciones finales
     
 
 ## Contenido
